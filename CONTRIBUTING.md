@@ -1,6 +1,6 @@
 # Contribute to Scroll Guidelines
 
-Thanks for helping to build the Scroll ecosystem! Contribution guidelines for this project are a bit odd, because the goal is to collect community contributions made in other repos — some in the scroll-tech organization, but many outside of it.
+Thanks for helping build the Scroll ecosystem! Contribution guidelines for this project are a bit odd, because the goal is to collect community contributions made in other repos — some in the scroll-tech organization, but many outside of it.
 
 Please remember, you're representing Scroll's community when you engage with other code repos. Please follow their best practices and be considerate of any reviewer's time.
 
